@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sign Tour 2.0</string>
+    <string name="title_home">Tours</string>
+    <string name="title_dashboard">Contactos</string>
+    <string name="title_notifications">Doar</string>
+    <string-array name="locais">
+        <item>Terreiro do Paço</item>
+        <item>Castelo de Guimarães</item>
+        <item>Castelo da Guarda</item>
+    </string-array>
+</resources>

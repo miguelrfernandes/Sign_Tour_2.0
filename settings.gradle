@@ -1,0 +1,2 @@
+rootProject.name='Sign Tour 2.0'
+include ':app'
